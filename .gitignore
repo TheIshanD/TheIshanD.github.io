@@ -39,3 +39,17 @@ sysinfo.txt
 *.meta
 *.assets
 *.cs
+*.png
+*.ttf
+*.prefab
+*.txt
+*.anim
+*.controller
+*.unity
+*.mat
+*.pdf
+*.asset
+*shader
+*.json
+*.cginc
+*.log
